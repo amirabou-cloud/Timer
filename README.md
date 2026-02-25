@@ -136,7 +136,7 @@ Importance of testing on multiple devices
 
 Clone the repository:
 
-git clone https://github.com/your-username/Timer.git
+git clone https://github.com/amirabou-cloud/Timer.git
 
 Open the project folder
 
